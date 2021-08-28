@@ -1,34 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <h1>Iceyy | Frontend Development</h1>
+  <p>Portfolio</p>
+  <a href="https://vibrant-haibt-14a9d6.netlify.app/" target="_blank">Live Demo</a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://portfolio-eta-olive.vercel.app/" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/0546cb39-104b-4b92-a8cf-08c6c6622fa8/deploy-status" alt="Netlify Status"/>
+  </a>
+</div>
+<br/>
+  
+![demo](https://cdn.discordapp.com/attachments/771433993744678972/881039096980590622/unknown.png)
 
-## Getting Started
+## Portfolio 🔥
 
-First, run the development server:
+## Installation & Build 🔨
 
-```bash
-npm run dev
-# or
-yarn dev
+1. Clone the repo
+
+```sh
+https://github.com/xIceyyx/Portfolio.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install NVM and use the correct version of Node (v16.1.0)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```sh
+nvm install
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+3. Install dependencies
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```sh
+npm install
+```
 
-## Learn More
+4. Run the development server
 
-To learn more about Next.js, take a look at the following resources:
+```sh
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. Build full static for production
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```sh
+npm run build
+```
 
-## Deploy on Vercel
+## API & Notable Packages 📦
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Next.js (https://nextjs.org/)
+- Styled Components (https://styled-components.com)
+- Material UI (https://material-ui.com)
