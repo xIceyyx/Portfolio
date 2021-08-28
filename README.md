@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Iceyy | Frontend Development</h1>
   <p>Portfolio</p>
-  <a href="https://vibrant-haibt-14a9d6.netlify.app/" target="_blank">Live Demo</a>
+  <a href="https://portfolio-eta-olive.vercel.app/" target="_blank">Live Demo</a>
 </div>
 <br/>
 <div align="center">
