@@ -53,7 +53,6 @@ const Wrapper = styled.div`
       width: 350px;
     }
 
-    object-fit: cover;
     //
   }
 
@@ -73,6 +72,7 @@ const Wrapper = styled.div`
 
     .project-img {
       height: 100%;
+      object-fit: cover;
     }
 
     .eye-img {
