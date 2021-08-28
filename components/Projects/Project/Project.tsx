@@ -11,12 +11,22 @@ interface Props {
 const Project = (props: Props) => {
   return (
     <Wrapper>
-      <a href={props.projectLink} target="_blank" className="project-link">
+      <a
+        href={props.projectLink}
+        target="_blank"
+        className="project-link"
+        rel="noreferrer"
+      >
         <img src="./images/eye.svg" alt="eye image" className="eye-img" />
         <img src={props.image} alt="project image" className="project-img" />
       </a>
 
-      <a href={props.repoLink} target="_blank" className="github-link">
+      <a
+        href={props.repoLink}
+        target="_blank"
+        className="github-link"
+        rel="noreferrer"
+      >
         <img src={props.readmeLink} alt="github image" className="github-img" />
       </a>
     </Wrapper>

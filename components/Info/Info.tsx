@@ -10,7 +10,7 @@ const Info = (props: Props) => {
         <div className="section-1">
           <p className="section-1__heading">Hi!</p>
           <p className="section-1__main">
-            I'm Iceyy, Front End developer from{" "}
+            I&apos;m Iceyy, Front End developer from{" "}
             <img src="./images/flag.jpg" width="20px" /> England that is open to
             learning new things!
           </p>
