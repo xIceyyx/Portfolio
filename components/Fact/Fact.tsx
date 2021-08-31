@@ -19,8 +19,8 @@ const Wrapper = styled.div`
   position: relative;
 
   .fact {
-    font-size: 3rem;
-    color: #fff;
+    font-size: 2.5rem;
     padding: 25px 10px;
+    text-align: center;
   }
 `;

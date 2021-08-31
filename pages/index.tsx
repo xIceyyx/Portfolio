@@ -24,7 +24,7 @@ const Home: NextPage = () => {
       <Nav />
       <Fact fact={""} />
       <Info />
-      <Fact fact={""} />
+      <Fact fact={"Projects"} />
       <Projects />
       <Fact fact={""} />
       <Form />
