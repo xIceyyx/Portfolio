@@ -88,5 +88,6 @@ const Wrapper = styled.div`
 
   .github-link {
     z-index: 1000;
+    margin-top: 10px;
   }
 `;

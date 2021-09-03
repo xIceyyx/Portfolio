@@ -66,6 +66,11 @@ const Wrapper = styled.div`
     margin-top: 20px;
     position: relative;
 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
     //
     width: 600px;
     @media only screen and (max-width: 650px) {
